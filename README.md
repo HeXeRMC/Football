@@ -1,2 +1,2 @@
 # Football
- Old football plugin update by me
+ Old football plugin. (updated by me)
